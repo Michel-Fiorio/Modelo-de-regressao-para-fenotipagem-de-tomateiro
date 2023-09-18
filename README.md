@@ -1,5 +1,5 @@
-# Modelo-de-regressao-para-fenotipagem-de-tomateiro
-Modelo de regressão para predição da doença Requeima em plantas de tomate (para estudo)
+# Modelo de regressão para fenotipagem de tomateiro
+Modelo de regressão para predição da doença Requeima em plantas de tomate.
 
 Nesta atividade temos a disposição um banco de dados de fenotipagem de tomateiro.
 
